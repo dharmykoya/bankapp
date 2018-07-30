@@ -1,0 +1,17 @@
+body {
+    background: url("banner.jpeg");
+}
+
+.container {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.title-content {
+    text-align: center;
+}
+.title-content .btn {
+    width: 100%;
+    align-self: center;
+    margin: 10px 0;
+}
